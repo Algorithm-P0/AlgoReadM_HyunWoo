@@ -15,5 +15,9 @@ I will write
 ```sort(정렬 시작 범위, 정렬 끝 범위);```
 
 vector(변수명 vec으로 설정함)의 시작부터 끝까지 정렬할 때는 다음과 같이 사용   
-```sort(vec.begin(), vec.end());```
+```sort(vec.begin(), vec.end());```   
+
+더 자세한 정보는   
+http://www.cplusplus.com/reference/algorithm/sort/   
+로 들어가서 
 
